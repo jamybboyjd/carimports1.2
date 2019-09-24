@@ -1,6 +1,6 @@
 Esx_carimports.
 
-I made this script some time ago and removed it due to people having problems with the SQL. i have not fixed this after some time away.
+I made this script some time ago and removed it due to people having problems with the SQL. i have now fixed this after some time away.
 
 Also please note this is a edit of ESX_truckshop. https://github.com/HumanTree92/esx_truckshop
 
@@ -13,3 +13,5 @@ This script is a whole new dealership and wont mess with another ones you have
 Please let me know if you have any problems.
 
 Also the server name is a none working server
+
+I also make maps and scripts live on twitch. https://www.twitch.tv/devingthat
