@@ -1,0 +1,16 @@
+Locales['en'] = {
+  ['not_enough_money']    = 'you do not have enough money',
+  ['importcar_belongs']       = 'A imported Car with the plate ~y~%s~s~ now belongs to ~b~you~s~',
+  ['generic_shopitem']    = '$%s',
+  ['carimports_dealer']        = 'Dealership | Imported cars',
+  ['buy_importedcar_shop']      = 'do you want to purchase %s for $%s?',
+  ['no']                  = 'no',
+  ['yes']                 = 'yes',
+  ['importedcar_purchased']     = 'you bought a imported  Car',
+  ['shop_menu']           = 'press ~INPUT_CONTEXT~ to access the menu',
+  ['shop_awaiting_model'] = 'the vehicle is currently ~g~DOWNLOADING & LOADING~s~ please wait',
+  ['sell_menu']           = 'press ~INPUT_CONTEXT~ to sell your ~y~%s~s~ for ~g~$%s~s~',
+  ['license_missing']     = 'you don\'t have a Commercial\'s License!',
+  ['importedcar_sold_for']      = 'the ~b~%s~s~ has been ~y~sold~s~ for ~g~$%s~s~',
+  ['not_yours']           = 'this vehicle does not belong to you',
+}
